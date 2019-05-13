@@ -1,1 +1,1 @@
-# react-forma2
+# react-format2
